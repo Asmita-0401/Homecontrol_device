@@ -4,6 +4,7 @@
 An IoT-based Smart Home Automation System that allows users to control household appliances wirelessly using Bluetooth technology while monitoring device status through the ThingSpeak Cloud Platform. The project focuses on improving convenience, energy efficiency, and remote monitoring using embedded systems and IoT technologies.
 
 🚀 Features
+
 📱 Control home appliances using a Bluetooth-enabled mobile application.
 🔵 Wireless communication using the HC-05 Bluetooth Module.
 ☁️ Real-time data monitoring and visualization using ThingSpeak.
@@ -14,6 +15,7 @@ An IoT-based Smart Home Automation System that allows users to control household
 🌐 Easy-to-use interface for smart home control.
 
 🛠️ Technologies Used
+
 🔹 Arduino UNO
 🔹 Bluetooth Module
 🔹 ThingSpeak Cloud Platform
@@ -23,6 +25,7 @@ An IoT-based Smart Home Automation System that allows users to control household
 🔹 Android Bluetooth Application
 
 ⚙️ How It Works
+
 📲 The user connects a smartphone to the HC-05 Bluetooth module.
 📡 Commands are sent wirelessly to the Arduino board.
 ⚡ Arduino processes the commands and controls the connected appliances through relay modules.
